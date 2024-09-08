@@ -1,2 +1,2 @@
 #!/bin/bash
-effective_username=$(whoami)    echo "$effective_username"
+effective_username=$(whoami)    echo root "$effective_username"
